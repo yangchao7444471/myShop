@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/qf-shop-product-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-product-web/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-regist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-regist-web/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-email-service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/qf-shop-common/pom.xml" />
+      </set>
     </option>
   </component>
 </project>

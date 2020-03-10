@@ -6,17 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="qf-shop-common" />
+        <module name="qf-shop-basic" />
+        <module name="qf-shop-email-service" />
+        <module name="qf-shop-entity" />
         <module name="qf-shop-eureka-server" />
+        <module name="qf-shop-mapper" />
         <module name="qf-shop-product-service" />
         <module name="qf-shop-product-web" />
+        <module name="qf-shop-regist-service" />
+        <module name="qf-shop-regist-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="qf-shop-basic" target="1.5" />
       <module name="qf-shop-common" target="1.5" />
+      <module name="qf-shop-email-service" target="1.8" />
+      <module name="qf-shop-entity" target="1.5" />
       <module name="qf-shop-eureka-server" target="1.8" />
+      <module name="qf-shop-mapper" target="1.5" />
       <module name="qf-shop-product-service" target="1.8" />
       <module name="qf-shop-product-web" target="1.8" />
+      <module name="qf-shop-regist-service" target="1.8" />
+      <module name="qf-shop-regist-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

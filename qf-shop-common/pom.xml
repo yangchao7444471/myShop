@@ -6,7 +6,13 @@
 
     <groupId>com.qf</groupId>
     <artifactId>qf-shop-common</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>qf-shop-basic</module>
+        <module>qf-shop-entity</module>
+        <module>qf-shop-mapper</module>
+    </modules>
 
 
 </project>
