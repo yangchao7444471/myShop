@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/myShop.iml" filepath="$PROJECT_DIR$/.idea/myShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-common/qf-shop-common.iml" filepath="$PROJECT_DIR$/qf-shop-common/qf-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-eureka-server/qf-shop-eureka-server.iml" filepath="$PROJECT_DIR$/qf-shop-eureka-server/qf-shop-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-product-service/qf-shop-product-service.iml" filepath="$PROJECT_DIR$/qf-shop-product-service/qf-shop-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-product-web/qf-shop-product-web.iml" filepath="$PROJECT_DIR$/qf-shop-product-web/qf-shop-product-web.iml" />
+    </modules>
+  </component>
+</project>
